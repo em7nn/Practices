@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@400;600&family=Montserrat:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@700&display=swap');
+
+// font-family: 'Martel', serif;
+// font-family: 'Montserrat', sans-serif;
+// font-family: 'Open Sans', sans-serif;
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.nav_links {
+    ul {
+        font-family: 'Montserrat', sans-serif;
+    }
+}
+
+.texts {
+    h1 {
+        font-size: 58px;
+        width: 400px;
+        font-family: 'Martel', serif;
+        font-weight: 900;
+        line-height: 65px;
+        letter-spacing: 0.2px;
+    }
+
+    h4 {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        color: #737373;
+        line-height: 30px;
+        letter-spacing: 0.2px;
+        size: 20px;
+        width: 300px;
+    }
+}
+
+.texts2 {
+    h2 {
+        font-family: 'Martel', serif;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0.20000000298023224px;
+    }
+
+    h5 {
+
+        font-family: 'Martel', serif;
+        font-size: 16px;
+        font-weight: 700;
+        line-height: 24px;
+        letter-spacing: 0.10000000149011612px;
+        text-align: center;
+    }
+}
